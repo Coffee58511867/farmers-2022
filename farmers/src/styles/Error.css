@@ -1,0 +1,10 @@
+.error {
+    color: red;
+}
+
+.response {
+    color: red;
+    margin-bottom: 10px;
+    text-align: start;
+
+}
